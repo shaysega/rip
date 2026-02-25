@@ -1,0 +1,12 @@
+{
+  "name": "rip",
+  "description": "Tells your vibe-coded app why it sucks.",
+  "version": "0.2.0",
+  "author": {
+    "name": "shaysegal"
+  },
+  "homepage": "https://github.com/shaysega/rip",
+  "repository": "https://github.com/shaysega/rip",
+  "license": "MIT",
+  "keywords": ["code-review", "roast", "vibe-coding", "quality"]
+}
